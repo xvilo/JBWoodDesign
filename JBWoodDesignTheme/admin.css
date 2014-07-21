@@ -1,0 +1,4 @@
+#login h1 a {background: url(images/login_logo.png) no-repeat; width: 326px; height: 67px;}
+.login {background: url(images/background.jpg) no-repeat center top;}
+#login_error{border-top: 3px solid black!important;border-right: 3px solid black!important;border-bottom: 3px solid black!important;border-left: 4px solid #dd3d36;}
+#loginform {background: white; border: 3px solid black!important;}
